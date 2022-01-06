@@ -3,12 +3,19 @@ num=int(input("How many values you want : "))
 for i in range (num):
     n=int(input())
     li.append(n)
-print(n)    
+    
+    
+    
+    
+print(n)
+
+
+
 '''li1=[]
 num=int(input("How many values you want : "))
 for i in range (num):
     n=int(input())
-    li1.append(n)
+    li1.append()
 for i range(num):
     print(li[i])'''
 
