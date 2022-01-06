@@ -2,14 +2,8 @@ li=[]
 num=int(input("How many values you want : "))
 for i in range (num):
     n=int(input())
-    li.append(n)
-    
-    
-    
-    
+    li.append(n)    
 print(n)
-
-
 
 '''li1=[]
 num=int(input("How many values you want : "))
